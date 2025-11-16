@@ -885,5 +885,9 @@
   "nav_volunteer_benefits": "Funktionärsförmåner",
   "nav_committees": "Utskott",
   "nav_for_companies": "För företag",
-  "nav_contact_details": "Kontaktuppgifter"
+  "nav_contact_details": "Kontaktuppgifter",
+  "nav_address": "Adress",
+  "nav_postal_address": "D-sektionen inom TLTH<br />Box 118<br />221 00 Lund",
+  "nav_visitor_address": "iDét, E-husets källare<br />Kommunikationsvägen 2A<br />223 63 Lund",
+  "nav_organisation_number": "Organisationsnummer<br />845003-2878"
 }
