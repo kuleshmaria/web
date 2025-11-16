@@ -1,6 +1,7 @@
 <script>
   import DarkmodeToggle from "./DarkmodeToggle.svelte";
   import Navbar from "./Navbar.svelte";
+  import Footer from "./Footer.svelte";
 
   const { children } = $props();
 </script>
@@ -12,3 +13,4 @@
   <DarkmodeToggle />
 </div>
 {@render children?.()}
+<Footer />
